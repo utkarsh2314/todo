@@ -8,8 +8,9 @@
   font-style: normal;
 }
 nav {
-  border-bottom: 1px solid gray;
-  color: #111;
+  background-color: #000000;
+  border-bottom: 1px solid rgb(28, 18, 18);
+  color: #ffffff;
   font-weight: 700;
   font-size: 28px;
   padding: 20px 100px;
@@ -43,7 +44,7 @@ nav {
   font-size: 20px;
 }
 .todo-form button {
-  background: #000000;
+  background: #181010;
   color: #fff;
   padding: 10px 35px;
   text-transform: uppercase;
