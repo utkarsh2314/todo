@@ -1,4 +1,4 @@
-# To-Do Web App
+# ToDo Web App
 
 A simple and intuitive To-Do web application built using React that stores tasks in Local Storage. It also provides notifications using Toastify for a better user experience.
 
@@ -12,6 +12,7 @@ A simple and intuitive To-Do web application built using React that stores tasks
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/0191b82d-1129-446d-a305-7111aa0eebe3)
 
 
 ## Technologies Used
